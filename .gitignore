@@ -32,7 +32,6 @@ Temporary Items
 # Source: https://github.com/github/gitignore
 
 # Data output directory
-/Data
 /Data/authority-export.csv
 /Data/NewData.csv
 
